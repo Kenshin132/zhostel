@@ -21,7 +21,7 @@
 
   // sendgrid api key
 
-  define('SENDGRID_API_KEY',"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");
+  define('SENDGRID_API_KEY',"");
   define('SENDGRID_EMAIL',"zhostelmakati1@zhostel.org");
   define('SENDGRID_NAME',"ZHostel");
 
